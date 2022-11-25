@@ -6,6 +6,6 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 storage = MemoryStorage()
 
 
-bot = Bot(token=config.TOKEN) # using for heroku or other deploy
+bot = Bot(token=config.TOKEN) # using for heroku or other deploying
 # bot = Bot(token=os.getenv('TOKEN')) # using for localhost
 dp = Dispatcher(bot, storage=storage)
