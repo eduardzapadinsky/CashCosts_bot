@@ -10,7 +10,7 @@ Install:
 pip install -r requirements.txt
 3. Run app: 
 cash_costs_bot.py -> run
-4. open and work with bot:
+4. Open and work with bot:
 https://t.me/Cash_Costs_Bot
-5. enter in telegram:
+5. Enter in telegram:
  /star
