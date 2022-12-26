@@ -14,3 +14,5 @@ cash_costs_bot.py -> run
 https://t.me/Cash_Costs_Bot
 5. Enter in telegram:
  /start
+ 
+![image](https://user-images.githubusercontent.com/111561866/209541067-83d786a3-67ac-4d23-833c-b392f873ed15.png)
